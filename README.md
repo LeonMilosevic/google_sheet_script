@@ -1,4 +1,4 @@
-# Cyber Care Task_1
+# Google Sheet Script
 
 ### Intro
 
@@ -23,7 +23,6 @@ python main.py
 Extract:
 
 - Extract all transactions from source dir<br />
-&darr;
 
 Transform:
 
